@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 60.0,
+    "commit": "9cb926a6e345cdf2916d721b9e60f61cb8b628b4",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 0.8,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "37-hole",
+    "load_name": "D0125",
+    "measured_response": "/oPFTgAAAAAQ1Vk+AAD6RMHfDUAAAPpEuCCHQAAA+kRbe8xAAAD6RDVDBkEAAPpEgz8mQQAA+kSsO0ZBAAD6REBEZkEAAPpEAiiDQQAA+kS4KZNBAAD6RO0no0EAAPpEsTSzQQAA+kS9PsNBAAD6RN0800EAAPpE7jrjQQAA+kSCQPNBAAD6RFqpAUIAAPpEDKoJQgAA+kQ4sRFCAAD6RH+3GUIAAPpEO7ohQgAA+kRRuSlCAAD6RL+4MUIAAPpEv7c5QgAA+kTOtkFCAAD6ROK9SUIAAPpE4L1RQgAA+kSyw1lCAAD6RA/FYUIAAPpEBMtpQgAA+kT8ynFCAAD6RBvKeUIAAPpEnuSAQgAA+kQd5YRCAAD6RBDniEIAAPpE7+mMQgAA+kTD65BCAAD6RP/tlEIAAPpEVe6YQgAA+kRy8pxCAAD6RPrxoEIAAPpETvekQgAA+kTG+ahCAAD6REr5rEIAAPpEmfmwQgAA+kTY/LRCAAD6RGT8uEIAAPpE",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 36,
+            "x": 0.0,
+            "y": -14.4018,
+            "z": 14.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "/oPFTgAAAAAQ1Vk+0QMIQsHfDUAAAAAAuCCHQAAAAABbe8xAAAAAADVDBkEAAAAAgz8mQQAAAACsO0ZBAAAAAEBEZkE/LYlBAiiDQdvaikG4KZNBJ4aMQe0no0ExL45BsTSzQQjWj0G9PsNBaD+QQd0800FoP5BB7jrjQWg/kEGCQPNBaD+QQVqpAUJoP5BBDKoJQmg/kEE4sRFCaD+QQX+3GUJoP5BBO7ohQmg/kEFRuSlCaD+QQb+4MUJoP5BBv7c5Qmg/kEHOtkFCaD+QQeK9SUJoP5BB4L1RQmg/kEGyw1lCaD+QQQ/FYUJoP5BBBMtpQmg/kEH8ynFCaD+QQRvKeUJoP5BBnuSAQmg/kEEd5YRCaD+QQRDniEJoP5BB7+mMQmg/kEHD65BCaD+QQf/tlEJoP5BBVe6YQmg/kEFy8pxCaD+QQfrxoEJoP5BBTvekQmg/kEHG+ahCaD+QQUr5rEJoP5BBmfmwQmg/kEHY/LRCaD+QQWT8uEJoP5BB",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "37-hole",
+    "videos": [
+        "SMB://agustin.nmbgmr.nmt.edu/argon/FusionsDiode/D0125/70164-01A-001.avi"
+    ],
+    "weight": 0
+}
