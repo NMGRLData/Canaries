@@ -67,7 +67,7 @@
     },
     "CDD": {
         "error": 0.001437395330533072,
-        "fit": "Weighted Mean",
+        "fit": "Bracketing Average",
         "reference_data": {
             "es": [
                 0.0020174114627046474,
