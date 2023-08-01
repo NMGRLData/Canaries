@@ -66,8 +66,8 @@
         "value": 1.5705727872801513e-07
     },
     "CDD": {
-        "error": 2.1687721933070595e-07,
-        "fit": "Bracketing Average",
+        "error": 4.6928851856984114e-08,
+        "fit": "Bracketing Interpolate",
         "reference_data": {
             "es": [
                 6.65199011557735e-08,
@@ -217,7 +217,7 @@
         ],
         "reviewed": true,
         "standard_ratio": 295.5,
-        "value": -3.1992264434668553e-07
+        "value": 2.2901412750796476e-07
     },
     "H1": {
         "error": 1.8043412647189225e-08,
